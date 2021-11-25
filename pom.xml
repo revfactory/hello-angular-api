@@ -9,10 +9,10 @@
 		<relativePath/> <!-- lookup parent from repository -->
 	</parent>
 	<groupId>com.kakao</groupId>
-	<artifactId>hello-api-project</artifactId>
+	<artifactId>hello-angular-api</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
-	<name>hello-api-project</name>
-	<description>hello-api-project for Techtalk</description>
+	<name>hello-angular-api</name>
+	<description>hello-angular-api for Techtalk</description>
 	<properties>
 		<java.version>11</java.version>
 		<kotlin.version>1.6.0</kotlin.version>
